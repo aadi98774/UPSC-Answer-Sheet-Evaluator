@@ -8,10 +8,10 @@ This project implements an end-to-end AI pipeline to evaluate scanned handwritte
 
 ### 📦 Install Dependencies
 
-This project uses `uv` for dependency management:
+This project uses `pip` for dependency management:
 
 ```
-uv pip install -r pyproject.toml
+pip install -r requirements.txt
 ```
 
 ▶️ Run the Application
