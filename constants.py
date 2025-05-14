@@ -1,0 +1,2 @@
+class constants:
+    OPENAI_API_KEY = "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"
